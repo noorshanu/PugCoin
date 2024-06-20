@@ -24,7 +24,7 @@ function Tokenomics() {
       </p>
    </div>
       <div>
-        <p className=" text-center mb-2  font-bold text-base sm:text-lg">Contract : 7r2ZMyL9gGZa55CX3MJt5YJhGwhVjAH5g9juxnEuSi4w</p>
+        <p className=" text-center bg-[#9cd8e0a1] font-bold text-base sm:text-2xl py-1 mt-2 mb-6 text-w border-[#0244a5b3] border-2 rounded-full font-dream">Contract : 7r2ZMyL9gGZa55CX3MJt5YJhGwhVjAH5g9juxnEuSi4w</p>
       </div>
       {/* <div className=" flex flex-col sm:flex-row items-center justify-center w-full gap-8">
      <div className="bg-[#c6f2ff] my-5 py-5 px-3 rounded-md w-full white-shadow text-center font-semibold">
@@ -37,10 +37,10 @@ function Tokenomics() {
             </div>
      </div> */}
 
-      <div className="grid sm:grid-cols-2 gap-10 items-center">
+      <div className="grid sm:grid-cols-2 gap-10 items-center bg-[#9cd8e0a1] py-4  px-4 border-2 rounded-xl border-[#0244a5b3]">
         <img
           src="/images/token.png"
-          className="w-full rounded-full border-4  white-shadow"
+          className="w-full rounded-full border-4  white-shadow border-[#0244a5b3]"
           alt=""
           data-aos="fade-right"
           data-aos-offset="300"
@@ -54,20 +54,20 @@ function Tokenomics() {
           data-aos-duration="1500"
           data-aos-easing="ease-in-sine"
         >
-          <div className="bg-[#c6f2ff] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold">
+          <div className="bg-[#7a3e28] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold border-[#0244a5b3] border-2 text-white">
             <p className=" uppercase">Total Supply = 1,000,000,000,000</p>
           </div>
-          <div className="bg-[#dbffc6] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold">
+          <div className="bg-[#7a3e28] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold  border-[#0244a5b3] border-2 text-white">
             <p className=" uppercase">Symbol = $solson</p>
           </div>
-          <div className="bg-[#e9cdff] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold">
+          <div className="bg-[#7a3e28] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold  border-[#0244a5b3] border-2 text-white">
             <p className=" uppercase">Tax = 0%</p>
           </div>
 
-          <div className="bg-[#ffcbdf] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold">
+          <div className="bg-[#7a3e28] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold  border-[#0244a5b3] border-2 text-white">
             <p className=" uppercase">Revoke mint </p>
           </div>
-          <div className="bg-[#ffcbdf] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold">
+          <div className="bg-[#7a3e28] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold  border-[#0244a5b3] border-2 text-white">
             <p className=" uppercase">Revoke Authority</p>
           </div>
           

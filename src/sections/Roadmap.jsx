@@ -30,35 +30,31 @@ const Grid = ({ direction = "left" }) => {
 function Roadmap() {
   return (
     <section className="relative z-10 " id="road">
-    
-
       <div className="container-wrapper mb-14">
-
-
         <div className=" flex items-center gap-2">
+          <Title
+            className="text-[#8431d6] mb-4 text-center"
+            data-aos="fade-up"
+            data-aos-offset="300"
+            data-aos-duration="1500"
+            data-aos-easing="ease-in-sine"
+          >
+            OUR ROADMAP
+          </Title>
 
-<Title
-     className="text-[#8431d6] mb-4 text-center"
-     data-aos="fade-up"
-     data-aos-offset="300"
-     data-aos-duration="1500"
-     data-aos-easing="ease-in-sine"
-   >
-    OUR ROADMAP
-   </Title>
+          <div className=" w-[60%] h-[1px] bg-[#376aa6]" />
 
-
-
-   <div className=" w-[60%] h-[1px] bg-[#376aa6]" />
-
-   <p className=" font-dream text-black font-semibold text-xl">
-     All Here
-   </p>
-</div>
+          <p className=" font-dream text-black font-semibold text-xl">
+            All Here
+          </p>
+        </div>
 
         {/* <img src="/images/roadmap.png" className="w-full" alt="" /> */}
 
-        <div className="flex justify-between flex-col sm:flex-row gap-5">
+        <div className="flex justify-between flex-col sm:flex-row gap-5 bg-[#9cd8e0a1] py-4  px-4 border-2 rounded-xl border-[#0244a5b3]"  data-aos="fade-up"
+            data-aos-offset="300"
+            data-aos-duration="1500"
+            data-aos-easing="ease-in-sine">
           <div className="bg-[#ffeeb9] py-5 px-5   rounded-md w-full mx-auto h-full sm:h-[300px] ">
             <div>
               <h1 className="font-dream text-[#8431d6]  text-center  text-lg mb-1">
