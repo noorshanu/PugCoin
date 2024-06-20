@@ -7,13 +7,19 @@ function NFTs() {
     <Marquee>
         <img src="images/about/img1.jpeg" alt="" className='mx-auto rounded-lg    px-4 h-[300px] '/>
         <img src="images/about/img2.jpeg" alt="" className='mx-auto rounded-lg   px-4  h-[300px]'/>
+        <img src="images/about/img5.jpeg" alt="" className='mx-auto rounded-lg   px-4 h-[300px]'/>
         <img src="images/about/img3.jpeg" alt="" className='mx-auto rounded-lg   px-4 h-[300px]'/>
         <img src="images/about/img4.jpeg" alt="" className='mx-auto rounded-lg   px-4 h-[300px]'/>
-        <img src="images/about/img5.jpeg" alt="" className='mx-auto rounded-lg   px-4 h-[300px]'/>
+   
+        <img src="images/hero3.jpeg" alt="" className='mx-auto rounded-lg   px-4 h-[300px]'/>
+        <img src="images/hero4.jpeg" alt="" className='mx-auto rounded-lg   px-4 h-[300px]'/>
         <img src="images/about/img1.jpeg" alt="" className='mx-auto rounded-lg   px-4 h-[300px]'/>
         <img src="images/about/img2.jpeg" alt="" className='mx-auto rounded-lg   px-4  h-[300px]'/>
+        <img src="images/hero3.jpeg" alt="" className='mx-auto rounded-lg   px-4 h-[300px]'/>
         <img src="images/about/img3.jpeg" alt="" className='mx-auto rounded-lg   px-4 h-[300px]'/>
         <img src="images/about/img4.jpeg" alt="" className='mx-auto rounded-lg   px-4 h-[300px]'/>
+   
+        <img src="images/hero4.jpeg" alt="" className='mx-auto rounded-lg   px-4 h-[300px]'/>
     </Marquee>
    </section>
   )
