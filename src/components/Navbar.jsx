@@ -44,12 +44,12 @@ function Navbar() {
 
           <div className=" flex lg:hidden">
             <div className="flex items-center gap-5 justify-center lg:justify-end">
-              <a href="https://t.me/puppypug" target="_blank" rel="noreferrer">
+              <a href="" target="_blank" rel="noreferrer">
                 <img src="TELEGRAM.png" alt="" className="w-auto h-[40px]" />
               </a>
 
               <a
-                href="http://twitter.com/puppypugg"
+                href=""
                 target="_blank"
                 rel="noreferrer"
               >
