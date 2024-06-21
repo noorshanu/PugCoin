@@ -1,6 +1,6 @@
 function About() {
   return (
-    <section className=" relative container-wrapper">
+    <section className=" relative container-wrapper" id="about">
       <div className=" bg-[#9cd8e0a1] backdrop-blur-lg border-2 border-[#0244a5b3]  flex flex-col lg:flex-row gap-8 items-center justify-center w-full rounded-2xl border-solid  border-lyllw/70">
         <div className="flex flex-col items-center justify-center w-1/2">
           <div className="w-full h-full">

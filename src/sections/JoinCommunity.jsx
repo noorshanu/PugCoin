@@ -27,7 +27,7 @@ const SocialLink = ({ children }) => {
 
 function JoinCommunity() {
   return (
-    <section className="pt-24 relative z-10 overflow-hidden container-wrapper ">
+    <section className="pt-24 relative z-10 overflow-hidden container-wrapper " id="contact">
       <div className=" flex flex-col sm:flex-row items-center gap-2">
         <Title
           className="text-[#8431d6] mb-4 text-center"

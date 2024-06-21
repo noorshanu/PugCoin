@@ -26,7 +26,7 @@ function Navbar() {
             </a>
 
             <a
-              href="#about"
+              href="#token"
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm sm:text-xl uppercase font-dream text-black"
             >
@@ -60,7 +60,7 @@ function Navbar() {
 
           <div className="items-center justify-evenly text-base font-medium text-white hidden lg:flex">
             <a
-              href="#"
+              href="#road"
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm sm:text-xl uppercase font-dream text-black "
             >
@@ -68,7 +68,7 @@ function Navbar() {
             </a>
 
             <a
-              href="#"
+              href="#contact"
               onClick={() => setSidebarOpen(false)}
               className="cursor-pointer text-sm sm:text-xl uppercase font-dream text-black "
             >
