@@ -103,10 +103,10 @@ function Roadmap() {
               • Implementing Global Marketing Strategies.
             </p>
             <p className=" text-base font-popins font-normal lh-1_7">
-              • Introducing Staking Platform .
+              • Fast-track listing on CMC and CG .
             </p>
             <p className=" text-base font-popins font-normal lh-1_7">
-              • Establishing Dapp Partnerships.
+              • Establish partnerships.
             </p>
           </div>
           <div className="bg-[#fbcbe6] py-5 px-5  rounded-md w-[100%] h-full sm:h-[300px]">
@@ -119,19 +119,19 @@ function Roadmap() {
               </h1> */}
             </div>
             <p className=" text-base font-popins font-normal lh-1_7">
-              • Nft launch .
+              • Launch new features. .
             </p>
             <p className=" text-base font-popins font-normal lh-1_7">
               • Pursuing New DEX & CEX Listings.
             </p>
             <p className=" text-base font-popins font-normal lh-1_7">
-              • Executing Dapp Marketing Strategies.
+              • Execute global marketing strategies.
             </p>
             <p className=" text-base font-popins font-normal lh-1_7">
-              • partnerships .
+              • Form additional partnerships .
             </p>
             <p className=" text-base font-popins font-normal lh-1_7">
-              • .further development{" "}
+              • Further development{" "}
             </p>
           </div>
         </div>

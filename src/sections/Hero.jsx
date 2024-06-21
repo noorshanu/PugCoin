@@ -31,7 +31,7 @@ function Hero() {
             PUGCOIN
           </p>
             <p className=" mt-2 font-dream text-xl">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Why so serious about crypto? Relax and let PugCoin bring the fun!
             </p>
 
           <div className="hidden sm:flex items-center gap-5 justify-start  mt-4">

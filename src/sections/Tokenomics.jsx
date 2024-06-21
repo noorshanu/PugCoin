@@ -24,7 +24,8 @@ function Tokenomics() {
       </p>
    </div>
       <div>
-        <p className=" text-center bg-[#9cd8e0a1] font-bold text-base sm:text-2xl py-1 mt-2 mb-6 text-w border-[#0244a5b3] border-2 rounded-full font-dream">Contract : 7r2ZMyL9gGZa55CX3MJt5YJhGwhVjAH5g9juxnEuSi4w</p>
+        <p className=" text-center bg-[#9cd8e0a1] font-bold text-base sm:text-2xl py-1 mt-2 mb-6 
+         border-[#0244a5b3] border-2 rounded-full font-dream">Contract : Comingsoon</p>
       </div>
       {/* <div className=" flex flex-col sm:flex-row items-center justify-center w-full gap-8">
      <div className="bg-[#c6f2ff] my-5 py-5 px-3 rounded-md w-full white-shadow text-center font-semibold">
@@ -55,10 +56,10 @@ function Tokenomics() {
           data-aos-easing="ease-in-sine"
         >
           <div className="bg-[#7a3e28] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold border-[#0244a5b3] border-2 text-white">
-            <p className=" uppercase">Total Supply = 1,000,000,000,000</p>
+            <p className=" uppercase">Total Supply = 1 Billion</p>
           </div>
           <div className="bg-[#7a3e28] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold  border-[#0244a5b3] border-2 text-white">
-            <p className=" uppercase">Symbol = $solson</p>
+            <p className=" uppercase">Symbol = $PUGCOIN</p>
           </div>
           <div className="bg-[#7a3e28] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold  border-[#0244a5b3] border-2 text-white">
             <p className=" uppercase">Tax = 0%</p>
