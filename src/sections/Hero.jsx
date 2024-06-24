@@ -37,7 +37,7 @@ function Hero() {
           <div className="hidden sm:flex items-center gap-5 justify-start  mt-4">
             <div className=" relative">
               <a
-                href="#"
+                href="https://www.dextools.io/app/en/solana/pair-explorer/Voj4E3Fv1dwrPeMdRquv56fBea58E7X8ZksP3BDwP3L?t=1719235450816"
                 target="_blank"
                 rel="noreferrer"
                 className="  "
@@ -62,7 +62,7 @@ function Hero() {
       
       </div>
       <div className=" flex justify-center bg-[#376aa6] border-2 rounded-full w-full  sm:w-[650px] mx-auto py-2">
-          <a href="/" className=" text-center font-dream text-xl ">CA:Comingsoon.......</a>
+          <a href="/" className=" text-center font-dream text-xl ">CA: 9Rxr2J5GDfHbjDDT2UXqcbmTuQv16VCsjqVr5Eqvv2xV</a>
         </div>
     </section>
   );
