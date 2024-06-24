@@ -45,12 +45,12 @@ function Hero() {
                <img src="images/dex.png" alt="" className=" h-[60px] bg-black rounded-full" />
               </a>
             </div>
-            <a href="#" target="_blank" rel="noreferrer">
+            <a href="https://t.me/Pugcoinonsolana" target="_blank" rel="noreferrer">
               <img src="TELEGRAM.png" alt="" className="w-auto h-[55px]" />
             </a>
 
             <a
-              href="#"
+              href="https://x.com/Pugcoinonsolana"
               target="_blank"
               rel="noreferrer"
             >

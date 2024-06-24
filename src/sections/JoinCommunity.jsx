@@ -57,14 +57,14 @@ function JoinCommunity() {
             />
 
             <div className="flex items-center gap-5 justify-center lg:justify-end">
-             <a href="/">
+             <a href="https://t.me/Pugcoinonsolana">
               <img src="TELEGRAM.png" alt="" className="w-auto h-[55px]" />
              </a>
              <a href="/">
               <img src="WEB.png" alt="" className="w-auto h-[55px]" />
              </a>
 
-             <a href="/">
+             <a href="https://x.com/Pugcoinonsolana">
               <img src="X.png" alt="" className="w-auto h-[55px]" />
              </a>
             </div>
